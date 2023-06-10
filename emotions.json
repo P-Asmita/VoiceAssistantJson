@@ -1,0 +1,61 @@
+{
+    "emotions":[
+
+        {
+            "tag":"greetings",
+            "patterns":["hello","hi","hey","JSon"
+            ],
+            "responses":["hey","how are you today","hey owner"
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["i gotta go","bye bye","talk to you later"
+            ],
+            "responses":["bie bie","have a great day ahead","aye aye boii"
+            ]
+        },
+        {
+            "tag":"health",
+            "patterns":["how are you","hey the weather is good","are you good?"
+            ],
+            "responses":["i am always good","good good great!"
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":["what's the time now","tell me the time","time"
+            ],
+            "responses":["time"
+            ]
+        },
+        {
+            "tag":"date",
+            "patterns":["what's the date","today's date is","date"
+            ],
+            "responses":["date"
+            ]
+        },
+        {
+            "tag":"day",
+            "patterns":["what's the day","today","day"
+            ],
+            "responses":["day"
+            ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["who is","what is","how","where is ","wikipedia"
+            ],
+            "responses":["wikipedia"
+            ]
+        },
+        {
+            "tag":"google",
+            "patterns":["Google search","Google","search"
+            ],
+            "responses":["google"
+            ]
+        }
+    ]
+}
